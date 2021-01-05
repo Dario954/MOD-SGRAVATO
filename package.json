@@ -1,0 +1,17 @@
+{
+  "name": "mod-sgravato",
+  "version": "1.0.0",
+  "main": "mod.js",
+  "scripts": {
+    "start": "node mod.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dario",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "description": "bot discord"
+}
